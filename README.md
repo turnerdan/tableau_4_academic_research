@@ -1,4 +1,4 @@
-# Welcome to the workshop: Tableau for Academic Researchers
+# Data Science Workshop: Tableau for Academic Researchers
 
 Have you ever wanted to explore your data without writing hundreds of lines of code in R, Python, SAS, Matlab, etc.? (I have, and I love coding!)
 Let’s explore Tableau as an alternative tool for academic researchers who want to create beautiful and comprehensible visualizations of their data.
